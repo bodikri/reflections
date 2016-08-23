@@ -17,3 +17,4 @@ Merging of branches is the one of the primary aim of using it in collaboration.
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
 I see only pros of automatic merging.
+I add this line just for needs of next commit.
